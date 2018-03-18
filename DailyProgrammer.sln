@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Easy", "Easy", "{C13B7423-2909-40EE-813E-C7B0088630BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[2018-03-12] Challenge #354 [Easy] Integer Complexity 1", "E354\[2018-03-12] Challenge #354 [Easy] Integer Complexity 1.csproj", "{0E5C4519-851F-4B80-97FC-6CC1AB451D14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E5C4519-851F-4B80-97FC-6CC1AB451D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5C4519-851F-4B80-97FC-6CC1AB451D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5C4519-851F-4B80-97FC-6CC1AB451D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5C4519-851F-4B80-97FC-6CC1AB451D14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0E5C4519-851F-4B80-97FC-6CC1AB451D14} = {C13B7423-2909-40EE-813E-C7B0088630BA}
+	EndGlobalSection
+EndGlobal

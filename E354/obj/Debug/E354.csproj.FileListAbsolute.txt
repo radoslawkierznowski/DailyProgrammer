@@ -1,0 +1,11 @@
+D:\git\DailyProgrammer\E354\bin\Debug\E354.exe.config
+D:\git\DailyProgrammer\E354\bin\Debug\E354.exe
+D:\git\DailyProgrammer\E354\bin\Debug\E354.pdb
+D:\git\DailyProgrammer\E354\obj\Debug\E354.csprojResolveAssemblyReference.cache
+D:\git\DailyProgrammer\E354\obj\Debug\Window1.baml
+D:\git\DailyProgrammer\E354\obj\Debug\Window1.g.cs
+D:\git\DailyProgrammer\E354\obj\Debug\App.g.cs
+D:\git\DailyProgrammer\E354\obj\Debug\E354_MarkupCompile.cache
+D:\git\DailyProgrammer\E354\obj\Debug\E354.g.resources
+D:\git\DailyProgrammer\E354\obj\Debug\E354.exe
+D:\git\DailyProgrammer\E354\obj\Debug\E354.pdb
